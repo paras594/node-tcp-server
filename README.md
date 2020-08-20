@@ -15,7 +15,7 @@ This is a simple TCP server to understand how TCP connections work in general.
 
 ```bash
 # Start TCP server: port 8080
-> npm start
+$ npm start
 ```
 
 
@@ -25,7 +25,7 @@ This is a simple TCP server to understand how TCP connections work in general.
 From your terminal run the following command
 
 ```bash
-> telnet 127.0.0.1 8080
+$ telnet 127.0.0.1 8080
 ```
 
 
